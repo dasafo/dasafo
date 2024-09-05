@@ -1,4 +1,8 @@
 ### Hi there 👋
+Hi! I’m David. I’m a physics graduate passionate about data analysis, machine learning and artificial intelligence.
+
+🌱 You can check out some of the personal projects I've worked on by clicking here: [dasafodata](https://dasafodata.com/)🔭
+
 ![dasafodata](https://github.com/dasafo/dasafo/blob/5e4191714188fa5471ecc84e128b657b8103b2e9/advertising-billboard-with-dasafodata-in-a-colourf-4aObr8ndR0Cbd0naAtVCsA-LP0EEbw9Rrq6ixUxWkGZwQ.jpeg)
 <!--
 **dasafo/dasafo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

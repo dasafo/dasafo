@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I’m David. I’m a physics graduate and data scientist passionate about data analysis, machine learning and artificial intelligence.
+### I’m David. I’m a physics and data scientist passionate about data analysis, machine learning and artificial intelligence.
 
 ### 🌱 You can check out some of the personal projects I've worked on by clicking here: [dasafodata](https://dasafodata.com/)🔭
 

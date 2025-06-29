@@ -22,7 +22,9 @@
 
 ## 🚀 Featured Projects
 
+- [**B2B AI Chatbot**](https://github.com/dasafo/Macroferro): Browse products, manage your shopping carts, and complete orders in natural language, 24/7, directly from Telegram..
 - [**AI-Client-Agent-MCP**](https://github.com/dasafo/AI-Client-Agent-MCP): An intelligent agent platform for automating business processes.
+- [**AI-Workflow-Assistant**](https://github.com/dasafo/AI-Workflow-Assistant): Intelligent automation system that integrates AI to process and automate tasks, enabling text summarization, translation, and classification.
 - [**Sales Data Analysis**](https://github.com/dasafo/ventas-analisis): Data exploration and visualization to uncover business trends.
 - [**Sentiment Classifier**](https://github.com/dasafo/clasificador-sentimientos): An NLP model that detects sentiment in product reviews.
 

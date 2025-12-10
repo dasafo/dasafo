@@ -70,7 +70,7 @@
 
 > “Data science isn't just about numbers — it's about telling stories that drive action.”
 
-![dasafodata]([https://github.com/dasafo/dasafo/blob/5e4191714188fa5471ecc84e128b657b8103b2e9/advertising-billboard-with-dasafodata-in-a-colourf-4aObr8ndR0Cbd0naAtVCsA-LP0EEbw9Rrq6ixUxWkGZwQ.jpeg](https://github.com/dasafo/dasafo/blob/main/dasfo.png))
+![dasafodata](https://github.com/dasafo/dasafo/blob/main/dasfo.png)
 
 <!--
 **dasafo/dasafo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
